@@ -94,7 +94,7 @@ Word: 反映, Frequency: 862
 Word: 单位, Frequency: 849
 Word: 可能, Frequency: 845
 Word: 状态, Frequency: 833
-Word: 左右, Frequency: 812
+Word: 左右, Frequency: 811
 Word: 使用, Frequency: 785
 Word: 机上, Frequency: 785
 Word: 发送, Frequency: 782
